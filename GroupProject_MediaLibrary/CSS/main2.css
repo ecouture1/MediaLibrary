@@ -1,0 +1,42 @@
+﻿body {
+}
+
+body form div table tbody tr td:nth-child(2)    {
+                        display: none;
+                        border: none;
+}
+body form div table tbody tr th:nth-child(2)    {
+                        display: none;
+                        border: none;
+}
+body form div table tbody tr td:first-child    {
+                        display: none;
+                        border: none;
+}
+body form div table tbody tr th:first-child    {
+                        display: none;
+                        border: none;
+}
+
+body form div table                             {
+                        border: none;
+                        padding-top: -100px;
+                        width: 100% !important;
+}
+
+body form div table *                           {
+                        border: none;
+                        margin-top: 0;
+}
+
+body form div table tbody tr                    {
+                        height: 100px;
+                        margin-top: -100px;
+}
+
+body form div table tbody tr td, th  {
+                        float: left;
+                        margin-left: 10px;
+                        width: 150px;
+                        text-align: left;
+}

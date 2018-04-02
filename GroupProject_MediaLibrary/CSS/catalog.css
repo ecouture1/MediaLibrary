@@ -1,0 +1,67 @@
+﻿
+/* Main content*/
+*{
+    margin:0;
+}
+
+body{
+    background-color: #171717;
+}
+
+.container{
+    width:80%;
+    margin: 0 auto;
+    overflow: auto;
+}
+
+/* catalogitems */
+
+.catalogitem{
+    width:95%;
+    height:250px;
+    margin:5px auto;
+    border:#1100F3 3px solid;
+}
+
+.title{
+    width:99%;
+    margin:5px auto;
+    clear:both;
+    font-size:larger;
+    font-weight:bold;
+    color:white;
+    text-align:center;
+}
+
+.catalogimage{
+    width:200px;
+    height:200px;
+    margin:5px;
+    text-align:center;
+}
+
+.cataloginfo{
+    width:95%;
+    font-size:medium;
+    color:white;
+    text-align:left;
+    height:200px;
+    margin:5px;
+    text-indent: 0px;
+}
+
+.catalogdescription{
+    width:95%;
+    font-size:medium;
+    color:white;
+    text-align:left;
+    text-indent: 10px;
+    height:200px;
+    margin:5px;
+}
+
+.left{
+    float:left;
+    width:32%;
+    padding:3px;
+}
