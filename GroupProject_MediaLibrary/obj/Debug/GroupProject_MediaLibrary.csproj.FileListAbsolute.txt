@@ -1,17 +1,8 @@
-D:\Practice Solutions\GroupProject_MediaLibrary\GroupProject_MediaLibrary\bin\GroupProject_MediaLibrary.dll.config
-D:\Practice Solutions\GroupProject_MediaLibrary\GroupProject_MediaLibrary\bin\GroupProject_MediaLibrary.dll
-D:\Practice Solutions\GroupProject_MediaLibrary\GroupProject_MediaLibrary\bin\GroupProject_MediaLibrary.pdb
-D:\Practice Solutions\GroupProject_MediaLibrary\GroupProject_MediaLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-D:\Practice Solutions\GroupProject_MediaLibrary\GroupProject_MediaLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\Practice Solutions\GroupProject_MediaLibrary\GroupProject_MediaLibrary\obj\Debug\GroupProject_MediaLibrary.csprojResolveAssemblyReference.cache
-D:\Practice Solutions\GroupProject_MediaLibrary\GroupProject_MediaLibrary\obj\Debug\GroupProject_MediaLibrary.csproj.CoreCompileInputs.cache
-D:\Practice Solutions\GroupProject_MediaLibrary\GroupProject_MediaLibrary\obj\Debug\GroupProject_MediaLibrary.dll
-D:\Practice Solutions\GroupProject_MediaLibrary\GroupProject_MediaLibrary\obj\Debug\GroupProject_MediaLibrary.pdb
-C:\Users\meji2\Documents\School\4 Spring 2018 Semester\Advanced C#\GroupProject_MediaLibrary\GroupProject_MediaLibrary\GroupProject_MediaLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\meji2\Documents\School\4 Spring 2018 Semester\Advanced C#\GroupProject_MediaLibrary\GroupProject_MediaLibrary\GroupProject_MediaLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\meji2\Documents\School\4 Spring 2018 Semester\Advanced C#\GroupProject_MediaLibrary\GroupProject_MediaLibrary\GroupProject_MediaLibrary\obj\Debug\GroupProject_MediaLibrary.csprojResolveAssemblyReference.cache
-C:\Users\meji2\Documents\School\4 Spring 2018 Semester\Advanced C#\GroupProject_MediaLibrary\GroupProject_MediaLibrary\GroupProject_MediaLibrary\bin\GroupProject_MediaLibraryf.dll.config
-C:\Users\meji2\Documents\School\4 Spring 2018 Semester\Advanced C#\GroupProject_MediaLibrary\GroupProject_MediaLibrary\GroupProject_MediaLibrary\bin\GroupProject_MediaLibraryf.dll
-C:\Users\meji2\Documents\School\4 Spring 2018 Semester\Advanced C#\GroupProject_MediaLibrary\GroupProject_MediaLibrary\GroupProject_MediaLibrary\bin\GroupProject_MediaLibraryf.pdb
-C:\Users\meji2\Documents\School\4 Spring 2018 Semester\Advanced C#\GroupProject_MediaLibrary\GroupProject_MediaLibrary\GroupProject_MediaLibrary\obj\Debug\GroupProject_MediaLibraryf.dll
-C:\Users\meji2\Documents\School\4 Spring 2018 Semester\Advanced C#\GroupProject_MediaLibrary\GroupProject_MediaLibrary\GroupProject_MediaLibrary\obj\Debug\GroupProject_MediaLibraryf.pdb
+C:\Users\karen.oloughlin\Documents\Visual Studio 2015\Projects\OL_MediaCenter\ML_Catalog_KO\GroupProject_MediaLibrary\bin\GroupProject_MediaLibraryf.dll.config
+C:\Users\karen.oloughlin\Documents\Visual Studio 2015\Projects\OL_MediaCenter\ML_Catalog_KO\GroupProject_MediaLibrary\bin\GroupProject_MediaLibraryf.dll
+C:\Users\karen.oloughlin\Documents\Visual Studio 2015\Projects\OL_MediaCenter\ML_Catalog_KO\GroupProject_MediaLibrary\bin\GroupProject_MediaLibraryf.pdb
+C:\Users\karen.oloughlin\Documents\Visual Studio 2015\Projects\OL_MediaCenter\ML_Catalog_KO\GroupProject_MediaLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\karen.oloughlin\Documents\Visual Studio 2015\Projects\OL_MediaCenter\ML_Catalog_KO\GroupProject_MediaLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\karen.oloughlin\Documents\Visual Studio 2015\Projects\OL_MediaCenter\ML_Catalog_KO\GroupProject_MediaLibrary\obj\Debug\GroupProject_MediaLibraryf.dll
+C:\Users\karen.oloughlin\Documents\Visual Studio 2015\Projects\OL_MediaCenter\ML_Catalog_KO\GroupProject_MediaLibrary\obj\Debug\GroupProject_MediaLibraryf.pdb
+C:\Users\karen.oloughlin\Documents\Visual Studio 2015\Projects\OL_MediaCenter\ML_Catalog_KO\GroupProject_MediaLibrary\obj\Debug\GroupProject_MediaLibrary.csprojResolveAssemblyReference.cache
