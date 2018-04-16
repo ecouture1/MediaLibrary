@@ -23,3 +23,73 @@ C:\Users\uchyt\Documents\Schoolwork\CIS 174\Group Project\MediaLibrary-master\Gr
 C:\Users\uchyt\Documents\Schoolwork\CIS 174\Group Project\MediaLibrary-master\GroupProject_MediaLibrary\obj\Debug\GroupProject_MediaLibrary.csprojResolveAssemblyReference.cache
 C:\Users\uchyt\Documents\Schoolwork\CIS 174\Group Project\MediaLibrary-master\GroupProject_MediaLibrary\obj\Debug\GroupProject_MediaLibraryf.dll
 C:\Users\uchyt\Documents\Schoolwork\CIS 174\Group Project\MediaLibrary-master\GroupProject_MediaLibrary\obj\Debug\GroupProject_MediaLibraryf.pdb
+C:\Users\karen.oloughlin\Downloads\Advanced C#\MediaLibrary_catalogBranch\MediaLibrary_catalogBranch\GroupProject_MediaLibrary\bin\GroupProject_MediaLibraryf.dll.config
+C:\Users\karen.oloughlin\Downloads\Advanced C#\MediaLibrary_catalogBranch\MediaLibrary_catalogBranch\GroupProject_MediaLibrary\bin\GroupProject_MediaLibraryf.dll
+C:\Users\karen.oloughlin\Downloads\Advanced C#\MediaLibrary_catalogBranch\MediaLibrary_catalogBranch\GroupProject_MediaLibrary\bin\GroupProject_MediaLibraryf.pdb
+C:\Users\karen.oloughlin\Downloads\Advanced C#\MediaLibrary_catalogBranch\MediaLibrary_catalogBranch\GroupProject_MediaLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\karen.oloughlin\Downloads\Advanced C#\MediaLibrary_catalogBranch\MediaLibrary_catalogBranch\GroupProject_MediaLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\karen.oloughlin\Downloads\Advanced C#\MediaLibrary_catalogBranch\MediaLibrary_catalogBranch\GroupProject_MediaLibrary\obj\Debug\GroupProject_MediaLibrary.csprojResolveAssemblyReference.cache
+C:\Users\karen.oloughlin\Downloads\Advanced C#\MediaLibrary_catalogBranch\MediaLibrary_catalogBranch\GroupProject_MediaLibrary\obj\Debug\GroupProject_MediaLibraryf.dll
+C:\Users\karen.oloughlin\Downloads\Advanced C#\MediaLibrary_catalogBranch\MediaLibrary_catalogBranch\GroupProject_MediaLibrary\obj\Debug\GroupProject_MediaLibraryf.pdb
+C:\Users\karen.oloughlin\Downloads\Advanced C#\MediaLibrary_catalog_OLoughlin\MediaLibrary_catalogBranch\GroupProject_MediaLibrary\bin\GroupProject_MediaLibraryf.dll.config
+C:\Users\karen.oloughlin\Downloads\Advanced C#\MediaLibrary_catalog_OLoughlin\MediaLibrary_catalogBranch\GroupProject_MediaLibrary\bin\GroupProject_MediaLibraryf.dll
+C:\Users\karen.oloughlin\Downloads\Advanced C#\MediaLibrary_catalog_OLoughlin\MediaLibrary_catalogBranch\GroupProject_MediaLibrary\bin\GroupProject_MediaLibraryf.pdb
+C:\Users\karen.oloughlin\Downloads\Advanced C#\MediaLibrary_catalog_OLoughlin\MediaLibrary_catalogBranch\GroupProject_MediaLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\karen.oloughlin\Downloads\Advanced C#\MediaLibrary_catalog_OLoughlin\MediaLibrary_catalogBranch\GroupProject_MediaLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\karen.oloughlin\Downloads\Advanced C#\MediaLibrary_catalog_OLoughlin\MediaLibrary_catalogBranch\GroupProject_MediaLibrary\obj\Debug\GroupProject_MediaLibrary.csprojResolveAssemblyReference.cache
+C:\Users\karen.oloughlin\Downloads\Advanced C#\MediaLibrary_catalog_OLoughlin\MediaLibrary_catalogBranch\GroupProject_MediaLibrary\obj\Debug\GroupProject_MediaLibraryf.dll
+C:\Users\karen.oloughlin\Downloads\Advanced C#\MediaLibrary_catalog_OLoughlin\MediaLibrary_catalogBranch\GroupProject_MediaLibrary\obj\Debug\GroupProject_MediaLibraryf.pdb
+C:\Users\karen.oloughlin\Desktop\Working Project Media Center\MediaLibrary_catalog_OLoughlin\MediaLibrary_catalogBranch\GroupProject_MediaLibrary\obj\Debug\GroupProject_MediaLibrary.csprojResolveAssemblyReference.cache
+C:\Users\karen.oloughlin\Desktop\Working Project Media Center\MediaLibrary_catalog_OLoughlin\MediaLibrary_catalogBranch\GroupProject_MediaLibrary\obj\Debug\GroupProject_MediaLibraryf.dll
+C:\Users\karen.oloughlin\Desktop\Working Project Media Center\MediaLibrary_catalog_OLoughlin\MediaLibrary_catalogBranch\GroupProject_MediaLibrary\obj\Debug\GroupProject_MediaLibraryf.pdb
+C:\Users\karen.oloughlin\Desktop\Working Project Media Center\MediaLibrary_catalog_OLoughlin\MediaLibrary_catalogBranch\GroupProject_MediaLibrary\bin\GroupProject_MediaLibraryf.dll.config
+C:\Users\karen.oloughlin\Desktop\Working Project Media Center\MediaLibrary_catalog_OLoughlin\MediaLibrary_catalogBranch\GroupProject_MediaLibrary\bin\GroupProject_MediaLibraryf.dll
+C:\Users\karen.oloughlin\Desktop\Working Project Media Center\MediaLibrary_catalog_OLoughlin\MediaLibrary_catalogBranch\GroupProject_MediaLibrary\bin\GroupProject_MediaLibraryf.pdb
+C:\Users\karen.oloughlin\Desktop\Working Project Media Center\MediaLibrary_catalog_OLoughlin\MediaLibrary_catalogBranch\GroupProject_MediaLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\karen.oloughlin\Desktop\Working Project Media Center\MediaLibrary_catalog_OLoughlin\MediaLibrary_catalogBranch\GroupProject_MediaLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\karen.oloughlin\Documents\Visual Studio 2015\Projects\Working Project Media Center\MediaLibrary_catalog_OLoughlin\MediaLibrary_catalogBranch\GroupProject_MediaLibrary\obj\Debug\GroupProject_MediaLibraryf.dll
+C:\Users\karen.oloughlin\Documents\Visual Studio 2015\Projects\Working Project Media Center\MediaLibrary_catalog_OLoughlin\MediaLibrary_catalogBranch\GroupProject_MediaLibrary\obj\Debug\GroupProject_MediaLibraryf.pdb
+C:\Users\karen.oloughlin\Documents\Visual Studio 2015\Projects\MediaLibrary_catalogBranch_KO\GroupProject_MediaLibrary\bin\GroupProject_MediaLibraryf.dll.config
+C:\Users\karen.oloughlin\Documents\Visual Studio 2015\Projects\MediaLibrary_catalogBranch_KO\GroupProject_MediaLibrary\bin\GroupProject_MediaLibraryf.dll
+C:\Users\karen.oloughlin\Documents\Visual Studio 2015\Projects\MediaLibrary_catalogBranch_KO\GroupProject_MediaLibrary\bin\GroupProject_MediaLibraryf.pdb
+C:\Users\karen.oloughlin\Documents\Visual Studio 2015\Projects\MediaLibrary_catalogBranch_KO\GroupProject_MediaLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\karen.oloughlin\Documents\Visual Studio 2015\Projects\MediaLibrary_catalogBranch_KO\GroupProject_MediaLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\karen.oloughlin\Documents\Visual Studio 2015\Projects\MediaLibrary_catalogBranch_KO\GroupProject_MediaLibrary\obj\Debug\GroupProject_MediaLibrary.csprojResolveAssemblyReference.cache
+C:\Users\karen.oloughlin\Documents\Visual Studio 2015\Projects\MediaLibrary_catalogBranch_KO\GroupProject_MediaLibrary\obj\Debug\GroupProject_MediaLibraryf.dll
+C:\Users\karen.oloughlin\Documents\Visual Studio 2015\Projects\MediaLibrary_catalogBranch_KO\GroupProject_MediaLibrary\obj\Debug\GroupProject_MediaLibraryf.pdb
+C:\Users\karen.oloughlin\Documents\Visual Studio 2015\Projects\MediaLibrary_Catalog2_GridViewKO\GroupProject_MediaLibrary\bin\GroupProject_MediaLibraryf.dll.config
+C:\Users\karen.oloughlin\Documents\Visual Studio 2015\Projects\MediaLibrary_Catalog2_GridViewKO\GroupProject_MediaLibrary\bin\GroupProject_MediaLibraryf.dll
+C:\Users\karen.oloughlin\Documents\Visual Studio 2015\Projects\MediaLibrary_Catalog2_GridViewKO\GroupProject_MediaLibrary\bin\GroupProject_MediaLibraryf.pdb
+C:\Users\karen.oloughlin\Documents\Visual Studio 2015\Projects\MediaLibrary_Catalog2_GridViewKO\GroupProject_MediaLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\karen.oloughlin\Documents\Visual Studio 2015\Projects\MediaLibrary_Catalog2_GridViewKO\GroupProject_MediaLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\karen.oloughlin\Documents\Visual Studio 2015\Projects\MediaLibrary_Catalog2_GridViewKO\GroupProject_MediaLibrary\obj\Debug\GroupProject_MediaLibrary.csprojResolveAssemblyReference.cache
+C:\Users\karen.oloughlin\Documents\Visual Studio 2015\Projects\MediaLibrary_Catalog2_GridViewKO\GroupProject_MediaLibrary\obj\Debug\GroupProject_MediaLibraryf.dll
+C:\Users\karen.oloughlin\Documents\Visual Studio 2015\Projects\MediaLibrary_Catalog2_GridViewKO\GroupProject_MediaLibrary\obj\Debug\GroupProject_MediaLibraryf.pdb
+C:\Users\karen.oloughlin\Documents\Visual Studio 2015\Projects\MediaLibrary_Catalog2_GridViewKO\GroupProject_MediaLibrary\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\uchyt\Documents\Visual Studio 2015\Projects\MediaLibrary_Catalog2_GridViewKO\GroupProject_MediaLibrary\bin\GroupProject_MediaLibraryf.dll.config
+C:\Users\uchyt\Documents\Visual Studio 2015\Projects\MediaLibrary_Catalog2_GridViewKO\GroupProject_MediaLibrary\bin\GroupProject_MediaLibraryf.dll
+C:\Users\uchyt\Documents\Visual Studio 2015\Projects\MediaLibrary_Catalog2_GridViewKO\GroupProject_MediaLibrary\bin\GroupProject_MediaLibraryf.pdb
+C:\Users\uchyt\Documents\Visual Studio 2015\Projects\MediaLibrary_Catalog2_GridViewKO\GroupProject_MediaLibrary\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\uchyt\Documents\Visual Studio 2015\Projects\MediaLibrary_Catalog2_GridViewKO\GroupProject_MediaLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\uchyt\Documents\Visual Studio 2015\Projects\MediaLibrary_Catalog2_GridViewKO\GroupProject_MediaLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\uchyt\Documents\Visual Studio 2015\Projects\MediaLibrary_Catalog2_GridViewKO\GroupProject_MediaLibrary\obj\Debug\GroupProject_MediaLibrary.csprojResolveAssemblyReference.cache
+C:\Users\uchyt\Documents\Visual Studio 2015\Projects\MediaLibrary_Catalog2_GridViewKO\GroupProject_MediaLibrary\obj\Debug\GroupProject_MediaLibraryf.dll
+C:\Users\uchyt\Documents\Visual Studio 2015\Projects\MediaLibrary_Catalog2_GridViewKO\GroupProject_MediaLibrary\obj\Debug\GroupProject_MediaLibraryf.pdb
+C:\Users\uchyt\Documents\Schoolwork\CIS 174\Visual Studio Projects\MediaLibrary_Catalog2_GridViewKO\GroupProject_MediaLibrary\bin\GroupProject_MediaLibraryf.dll.config
+C:\Users\uchyt\Documents\Schoolwork\CIS 174\Visual Studio Projects\MediaLibrary_Catalog2_GridViewKO\GroupProject_MediaLibrary\bin\GroupProject_MediaLibraryf.dll
+C:\Users\uchyt\Documents\Schoolwork\CIS 174\Visual Studio Projects\MediaLibrary_Catalog2_GridViewKO\GroupProject_MediaLibrary\bin\GroupProject_MediaLibraryf.pdb
+C:\Users\uchyt\Documents\Schoolwork\CIS 174\Visual Studio Projects\MediaLibrary_Catalog2_GridViewKO\GroupProject_MediaLibrary\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\uchyt\Documents\Schoolwork\CIS 174\Visual Studio Projects\MediaLibrary_Catalog2_GridViewKO\GroupProject_MediaLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\uchyt\Documents\Schoolwork\CIS 174\Visual Studio Projects\MediaLibrary_Catalog2_GridViewKO\GroupProject_MediaLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\uchyt\Documents\Schoolwork\CIS 174\Visual Studio Projects\MediaLibrary_Catalog2_GridViewKO\GroupProject_MediaLibrary\obj\Debug\GroupProject_MediaLibrary.csprojResolveAssemblyReference.cache
+C:\Users\uchyt\Documents\Schoolwork\CIS 174\Visual Studio Projects\MediaLibrary_Catalog2_GridViewKO\GroupProject_MediaLibrary\obj\Debug\GroupProject_MediaLibraryf.dll
+C:\Users\uchyt\Documents\Schoolwork\CIS 174\Visual Studio Projects\MediaLibrary_Catalog2_GridViewKO\GroupProject_MediaLibrary\obj\Debug\GroupProject_MediaLibraryf.pdb
+C:\Users\uchyt\Documents\GitHub\MediaLibrary\GroupProject_MediaLibrary\bin\GroupProject_MediaLibraryf.dll.config
+C:\Users\uchyt\Documents\GitHub\MediaLibrary\GroupProject_MediaLibrary\bin\GroupProject_MediaLibraryf.dll
+C:\Users\uchyt\Documents\GitHub\MediaLibrary\GroupProject_MediaLibrary\bin\GroupProject_MediaLibraryf.pdb
+C:\Users\uchyt\Documents\GitHub\MediaLibrary\GroupProject_MediaLibrary\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\uchyt\Documents\GitHub\MediaLibrary\GroupProject_MediaLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\uchyt\Documents\GitHub\MediaLibrary\GroupProject_MediaLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\uchyt\Documents\GitHub\MediaLibrary\GroupProject_MediaLibrary\obj\Debug\GroupProject_MediaLibrary.csprojResolveAssemblyReference.cache
+C:\Users\uchyt\Documents\GitHub\MediaLibrary\GroupProject_MediaLibrary\obj\Debug\GroupProject_MediaLibraryf.dll
+C:\Users\uchyt\Documents\GitHub\MediaLibrary\GroupProject_MediaLibrary\obj\Debug\GroupProject_MediaLibraryf.pdb

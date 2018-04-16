@@ -23,7 +23,7 @@
                 </div>
                     <ul class="nav navbar-nav">
                         <li><a href="login.aspx">Login</a></li>
-                        <li><a href="catalog.aspx">Catalog</a></li>
+                        <li><a href="catalog2.aspx">Catalog</a></li>
                     </ul>
                 </div>
             </nav>      
