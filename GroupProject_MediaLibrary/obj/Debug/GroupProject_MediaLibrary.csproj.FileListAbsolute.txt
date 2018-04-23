@@ -15,3 +15,13 @@ C:\Users\meji2\Documents\School\4 Spring 2018 Semester\Advanced C#\GroupProject_
 C:\Users\meji2\Documents\School\4 Spring 2018 Semester\Advanced C#\GroupProject_MediaLibrary\GroupProject_MediaLibrary\GroupProject_MediaLibrary\bin\GroupProject_MediaLibraryf.pdb
 C:\Users\meji2\Documents\School\4 Spring 2018 Semester\Advanced C#\GroupProject_MediaLibrary\GroupProject_MediaLibrary\GroupProject_MediaLibrary\obj\Debug\GroupProject_MediaLibraryf.dll
 C:\Users\meji2\Documents\School\4 Spring 2018 Semester\Advanced C#\GroupProject_MediaLibrary\GroupProject_MediaLibrary\GroupProject_MediaLibrary\obj\Debug\GroupProject_MediaLibraryf.pdb
+C:\Users\steph\Source\Repos\MediaLibrary\GroupProject_MediaLibrary\bin\GroupProject_MediaLibraryf.dll.config
+C:\Users\steph\Source\Repos\MediaLibrary\GroupProject_MediaLibrary\bin\GroupProject_MediaLibraryf.dll
+C:\Users\steph\Source\Repos\MediaLibrary\GroupProject_MediaLibrary\bin\GroupProject_MediaLibraryf.pdb
+C:\Users\steph\Source\Repos\MediaLibrary\GroupProject_MediaLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\steph\Source\Repos\MediaLibrary\GroupProject_MediaLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\steph\Source\Repos\MediaLibrary\GroupProject_MediaLibrary\obj\Debug\GroupProject_MediaLibrary.csprojResolveAssemblyReference.cache
+C:\Users\steph\Source\Repos\MediaLibrary\GroupProject_MediaLibrary\obj\Debug\GroupProject_MediaLibrary.csproj.CoreCompileInputs.cache
+C:\Users\steph\Source\Repos\MediaLibrary\GroupProject_MediaLibrary\obj\Debug\GroupProject_MediaLibrary.csproj.CopyComplete
+C:\Users\steph\Source\Repos\MediaLibrary\GroupProject_MediaLibrary\obj\Debug\GroupProject_MediaLibraryf.dll
+C:\Users\steph\Source\Repos\MediaLibrary\GroupProject_MediaLibrary\obj\Debug\GroupProject_MediaLibraryf.pdb

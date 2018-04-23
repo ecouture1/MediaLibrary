@@ -15,9 +15,5 @@ namespace GroupProject_MediaLibrary
         {
             UnobtrusiveValidationMode = UnobtrusiveValidationMode.None;
         }
-        protected void CreateUserWizard1_CreatedUser(object sender, EventArgs e)
-        {
-
-        }
     }
 }
